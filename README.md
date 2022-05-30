@@ -1,2 +1,2 @@
 # js-desafio
- desagio dragão e outros js dio tqi fullstack
+ desafio dragão e outros js dio tqi fullstack
